@@ -1,0 +1,4 @@
+{
+    "command": "npm run test",
+    "working_directory": "/home/kavia/workspace/code-generation/inventory-management-dashboard-297012-297023/stock_management_frontend"
+}
